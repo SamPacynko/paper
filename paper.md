@@ -20,3 +20,7 @@ We simulate the evolution of the particle sizes as they are transported away fro
 # Methodology
 We compared our measurements of aging with a model simulation.
 The model is detailed in Smith et al. (2002).
+
+# Results
+
+Here are my results.
