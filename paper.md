@@ -23,7 +23,7 @@ We compared our measurements of aging with a model simulation.
 The model is detailed in Smith et al. (2002).
 
 # Results
-Here are my results.
+Particle size is smaller in the south of West Africa compared to the north.
 
 # Figures
 Figures go in their own section in a draft paper.
